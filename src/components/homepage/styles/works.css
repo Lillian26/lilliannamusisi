@@ -42,3 +42,19 @@
 	text-align: right;
 	color: var(--tertiary-color);
 }
+
+.horizontal-list {
+	display: flex;
+	align-items: center;
+}
+
+.list-item {
+	/* padding: 8px; */
+}
+
+.vertical-line {
+	width: 1px;
+	height: 10px;
+	background-color: grey;
+	margin: 0 4px;
+}

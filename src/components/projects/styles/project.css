@@ -27,7 +27,7 @@
 }
 
 .project-logo {
-	width: 30px;
+	width: 80px;
 }
 
 .project-logo img {
@@ -63,6 +63,10 @@
 .project-link-text {
 	padding-left: 20px;
 	font-weight: 700;
+}
+
+.project-image {
+	width: 500px;
 }
 
 @media (max-width: 600px) {
