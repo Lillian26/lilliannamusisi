@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lilliannamusisi/static/css/main.53d274b0.css",
+    "main.js": "/lilliannamusisi/static/js/main.1631c26a.js",
+    "static/js/787.512dd3f2.chunk.js": "/lilliannamusisi/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/lilliannamusisi/index.html",
+    "main.53d274b0.css.map": "/lilliannamusisi/static/css/main.53d274b0.css.map",
+    "main.1631c26a.js.map": "/lilliannamusisi/static/js/main.1631c26a.js.map",
+    "787.512dd3f2.chunk.js.map": "/lilliannamusisi/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d274b0.css",
+    "static/js/main.1631c26a.js"
+  ]
+}
