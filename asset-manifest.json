@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lilliannamusisi/static/css/main.53d274b0.css",
-    "main.js": "/lilliannamusisi/static/js/main.8c3248d9.js",
+    "main.js": "/lilliannamusisi/static/js/main.4376518a.js",
     "static/js/787.512dd3f2.chunk.js": "/lilliannamusisi/static/js/787.512dd3f2.chunk.js",
     "index.html": "/lilliannamusisi/index.html",
     "main.53d274b0.css.map": "/lilliannamusisi/static/css/main.53d274b0.css.map",
-    "main.8c3248d9.js.map": "/lilliannamusisi/static/js/main.8c3248d9.js.map",
+    "main.4376518a.js.map": "/lilliannamusisi/static/js/main.4376518a.js.map",
     "787.512dd3f2.chunk.js.map": "/lilliannamusisi/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53d274b0.css",
-    "static/js/main.8c3248d9.js"
+    "static/js/main.4376518a.js"
   ]
 }
