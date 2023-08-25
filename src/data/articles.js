@@ -29,7 +29,7 @@ function article_1() {
 				<div className="article-content">
 					<div className="paragraph">originally published <a href="https://medium.com/@lilliannamusisi/haskell-good-programming-practices-25f1d1d7f13c">here</a></div>
 					<img
-						src="../code.png"
+						src={process.env.PUBLIC_URL + "/code.png"}
 						alt="code"
 						className="randImage"
 					/>

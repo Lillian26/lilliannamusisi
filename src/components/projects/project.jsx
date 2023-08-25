@@ -14,7 +14,7 @@ const Project = (props) => {
 				<Link to={link}>
 					<div className="project-container">
 						<div className="project-logo">
-							<img src={logo} alt="logo" />
+							<img src={ process.env.PUBLIC_URL + logo } alt="logo" />
 						</div>
 						<div className="project-title">{title}</div>
 						<div className="project-description">{description}</div>
@@ -28,7 +28,7 @@ const Project = (props) => {
 					</div>
 				</Link>
 				<div className="project-image">
-							<img src={image} alt="image" />
+							<img src={ process.env.PUBLIC_URL + image } alt="image" />
 						</div>
 			</div>
 		</React.Fragment>

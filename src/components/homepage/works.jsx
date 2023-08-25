@@ -18,7 +18,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./walmi.jpg"
+								src={ process.env.PUBLIC_URL + "/walmi.jpg"}
 								alt="walimi"
 								className="work-image"
 							/>
@@ -39,7 +39,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./savna.jpg"
+								src={ process.env.PUBLIC_URL + "/savna.jpg" }
 								alt="csavannah"
 								className="work-image"
 							/>

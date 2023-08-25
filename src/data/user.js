@@ -3,7 +3,7 @@ const INFO = {
 		title: "Namusisi Lillian",
 		name: "Namusisi Lillian",
 		email: "lilliannamusisi@gmail.com",
-		logo: "../logo.jpg",
+		logo: "/logo.jpg",
 	},
 
 	socials: {
@@ -38,30 +38,30 @@ const INFO = {
 			title: "Youth Go Budget",
 			description:
 				" A mobile app and web portal with surveys for effective youth participation in budgeting processes and expenditure tracking.",
-			logo: "../youthgo.png",
+			logo: "/youthgo.png",
 			linkText: "View Project",
 			link: "https://play.google.com/store/apps/details?id=com.youthgobudgetnac",
-			image: "../youthgo_big.png",
+			image: "/youthgoBig.png",
 		},
 
 		{
 			title: "Binusi Universal Wallet",
 			description:
 				"a digital loyalty points’ app and web portal for programs that users have subscribed to at outlets and service delivery spots.",
-			logo: "../binusu.png",
+			logo: "/binusu.png",
 			linkText: "View Project",
 			link: "https://apkgk.com/com.binusu",
-			image: "../binusu_big.png",
+			image: "/binusuBig.png",
 		},
 
 		{
 			title: "Chaguzi",
 			description:
 				"A health app that links the healthcare value chain; product(s), healthcare providers, and consumers.",
-			logo: "../chaguzi.png",
+			logo: "/chaguzi.png",
 			linkText: "View Project",
 			link: "https://play.google.com/store/apps/details?id=com.pillfinderapp.app&hl=en&gl=US",
-			image: "../chaguzi_big2.png",
+			image: "/chaguziBig2.png",
 		},
 
 		// {
